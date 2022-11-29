@@ -11,7 +11,6 @@ from io import StringIO
 import re
 import os
 
-
 class TestHBNBCommand(unittest.TestCase):
 
     """Tests HBNBCommand console."""
